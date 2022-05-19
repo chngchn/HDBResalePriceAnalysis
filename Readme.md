@@ -14,5 +14,5 @@ The dataset for this case study was sourced from [data.gov.sg](https://data.gov.
 
 In this repo, you will find the following:
 1. resale-flat-prices (folder): this folder contains all the relevant data for this project.
-2. HDB Resale Price Analysis and Prediction_v1.ipynb: the Jupyter notebook containing relevant codes and analysis.
+2. [HDB Resale Price Analysis and Prediction_v1.ipynb](https://github.com/chngchn/HDBResalePriceAnalysis/blob/master/HDB%20Resale%20Price%20Analysis%20and%20Prediction_v1.ipynb): the Jupyter notebook containing relevant codes and analysis.
 3. checkingresale.csv: a CSV file used to store hypothetical value for resale price prediction.
